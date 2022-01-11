@@ -1,4 +1,9 @@
-﻿#include <stdio.h>
+/*
+Created by BugArchitect on 2022/1/2.
+Copyright © 2022年 BugArchitect. All rights reserved.
+*/
+
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <Windows.h>
